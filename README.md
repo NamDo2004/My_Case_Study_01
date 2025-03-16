@@ -55,4 +55,4 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 ![Image](https://github.com/user-attachments/assets/a07042d4-d213-494f-83c3-0e27c7c047df)
 
 ## Monthly rider trends
-
+![Image](https://github.com/user-attachments/assets/9dc6e55a-4483-45aa-bf83-c5d1d42ed135)
