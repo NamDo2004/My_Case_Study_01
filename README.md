@@ -19,3 +19,30 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 - Number of rides by hour.
 - Monthly ride trends.
 6. **Output**: Exported a summary CSV of average ride lengths by rider type and weekday.
+
+## Repository Structure
+- **data/:** Contains the 12 CSV files (e.g., 202301-divvy-tripdata.csv).
+- **scripts/:** Contains the R script (bike_analysis.R) with all code.
+- **output/:** Contains the exported CSV (avg_ride_length.csv).
+- **visualizations/:** Contains generated plots (if saved separately).
+
+##Tools Used
+- **R**: Core analysis and visualization.
+- **Libraries:** tidyverse, dplyr, scales, conflicted for data manipulation and plotting.
+
+## Key Findings
+- Identified peak riding days and hours.
+- Compared ride duration and frequency between member and casual riders.
+- Visualized seasonal trends in bike usage.
+
+## How to Run
+1. Clone this repository.
+2. Install R and required libraries:
+- ```install.packages(c("tidyverse", "dplyr", "scales", "conflicted"))```
+3. Place the Divvy CSV files in the data/ folder.
+4. Run the R script (scripts/bike_analysis.R) in RStudio or an R environment.
+5. Check the output/ folder for the summary CSV and visualizations/ for plots (if saved).
+## Next Steps
+- Add statistical tests to validate findings.
+- Explore station-level patterns.
+- Integrate additional years for trend analysis.
