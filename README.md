@@ -47,7 +47,7 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 - Explore station-level patterns.
 - Integrate additional years for trend analysis.
 
-# Visualize
+# Analysis Outcomes and Visuals
 ## Number of riders by rider type
 ![Image](https://github.com/user-attachments/assets/864859bf-bcbd-40de-b843-1a317d7effbf)
 
@@ -56,3 +56,13 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 
 ## Monthly rider trends
 ![Image](https://github.com/user-attachments/assets/9dc6e55a-4483-45aa-bf83-c5d1d42ed135)
+
+### Conclusions
+- Members ride most midweek; casual riders prefer Monday and Sunday.
+- Both rider types peak between 3 p.m. and 5 p.m. (15:00–17:00).
+- Ridership rises mid-year (June–August) and dips at the year’s start and end.
+
+### Strategies to Boost Ridership
+- Run promotions for casual riders on Mondays and Sundays.
+- Target peak hours (3–5 p.m.) with discounts or rewards.
+- Launch summer campaigns (June–August) to attract frequent riders.
