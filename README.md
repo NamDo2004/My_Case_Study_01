@@ -46,3 +46,7 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 - Add statistical tests to validate findings.
 - Explore station-level patterns.
 - Integrate additional years for trend analysis.
+
+# Visualize
+## Number of riders by rider type
+![Image](https://github.com/user-attachments/assets/864859bf-bcbd-40de-b843-1a317d7effbf)
