@@ -50,3 +50,6 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 # Visualize
 ## Number of riders by rider type
 ![Image](https://github.com/user-attachments/assets/864859bf-bcbd-40de-b843-1a317d7effbf)
+
+## Number of riders by hour
+![Image](https://github.com/user-attachments/assets/a07042d4-d213-494f-83c3-0e27c7c047df)
