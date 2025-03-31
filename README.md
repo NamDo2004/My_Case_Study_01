@@ -66,3 +66,6 @@ The analysis uses 12 months of Divvy trip data (January 2023 – December 2023),
 - Run promotions for casual riders on Mondays and Sundays.
 - Target peak hours (3–5 p.m.) with discounts or rewards.
 - Launch summer campaigns (June–August) to attract frequent riders.
+
+### Explore details in my Kaggle Notebooks
+https://www.kaggle.com/code/namdo33759/cyclistic-bike-share-analysis
